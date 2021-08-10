@@ -1,3 +1,4 @@
+export {}
 const apples = 5                        //type inference
 let nothingMuch: null = null;           //type annotation
 let nothing: undefined = undefined;
