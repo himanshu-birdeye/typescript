@@ -7,6 +7,11 @@
   "resolved" "https://registry.npmjs.org/@types/faker/-/faker-5.5.7.tgz"
   "version" "5.5.7"
 
+"@types/google.maps@^3.45.6":
+  "integrity" "sha512-BzGzxs8UXFxeP8uN/0nRgGbsbpYQxSCKsv/7S8OitU7wwhfFcqQSm5aAcL1nbwueMiJ/VVmIZKPq69s0kX5W+Q=="
+  "resolved" "https://registry.npmjs.org/@types/google.maps/-/google.maps-3.45.6.tgz"
+  "version" "3.45.6"
+
 "faker@^5.5.3":
   "integrity" "sha512-wLTv2a28wjUyWkbnX7u/ABZBkUkIF2fCd73V6P2oFqEGEktDfzWx4UxrSqtPRw0xPRAcjeAOIiJWqZm3pP4u3g=="
   "resolved" "https://registry.npmjs.org/faker/-/faker-5.5.3.tgz"
